@@ -329,14 +329,14 @@
                     },
                     "line_items": [
                         {
-                            "price": "30.00",
-                            "product_id": "6",
+                            "price": 30,
+                            "product_id": "IPOD2008GREEN",
                             "quantity": 1,
                             "sku": "IPOD2008GREEN"
                         },
                         {
-                            "price": "2.45",
-                            "product_id": "79",
+                            "price": 2.45,
+                            "product_id": "PENCIL34567",
                             "quantity": 20,
                             "sku": "PENCIL34567"
                         }
